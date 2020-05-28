@@ -11,6 +11,7 @@ h2 {
 /* line 17, scss/original.scss */
 #header {
   border-bottom: 10px solid #39caf7;
+  background-image: url(https://prog-8.com/images/html/advanced/top.png);
 }
 
 #vegas-wrapper{
