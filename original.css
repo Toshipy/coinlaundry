@@ -1,0 +1,247 @@
+@charset "UTF-8";
+/* メインカラー */
+/*  */
+/*  */
+/* line 12, scss/original.scss */
+h2 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+/* line 17, scss/original.scss */
+#header {
+  border-bottom: 10px solid #39caf7;
+}
+
+/* line 21, scss/original.scss */
+#washable {
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+}
+
+/* line 26, scss/original.scss */
+#interior {
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+}
+
+/* line 32, scss/original.scss */
+.top_shopphoto_wrapper p {
+  font-size: 14px;
+  line-height: 2;
+}
+
+/* line 40, scss/original.scss */
+#laundry .blue_box a {
+  width: 90%;
+  font-size: 16px;
+  font-weight: 800;
+  text-align: center;
+  padding: 5px;
+  color: #FFFFFF;
+  background-color: #39caf7;
+  margin: auto;
+}
+
+/* line 53, scss/original.scss */
+#washable2 {
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+}
+/* line 56, scss/original.scss */
+#washable2 h3 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+/* line 62, scss/original.scss */
+#washable2 .inner p img {
+  width: 25px;
+  float: left;
+}
+/* line 68, scss/original.scss */
+#washable2 .wash_cell {
+  margin-bottom: 10px;
+  padding: 15px;
+  border: 3px solid #000;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+}
+/* line 76, scss/original.scss */
+#washable2 .wash_cell p {
+  font-size: 14px;
+  text-indent: 1rem;
+}
+/* line 80, scss/original.scss */
+#washable2 .wash_cell ul {
+  font-size: 16px;
+  font-weight: bold;
+}
+/* line 83, scss/original.scss */
+#washable2 .wash_cell ul li {
+  font-weight: normal;
+  font-size: 14px;
+  list-style-type: none;
+  text-indent: 1rem;
+  line-height: 1.8;
+}
+/* line 91, scss/original.scss */
+#washable2 .wash_cell hr {
+  border-top: 1px dotted #000;
+}
+/* line 95, scss/original.scss */
+#washable2 .p_wash {
+  font-size: 14px;
+}
+/* line 98, scss/original.scss */
+#washable2 .washable_caution {
+  width: 100%;
+}
+/* line 100, scss/original.scss */
+#washable2 .washable_caution img {
+  width: 75%;
+  margin: 0 auto;
+}
+
+/* line 108, scss/original.scss */
+.shopphoto .shopphoto_1 {
+  width: 100%;
+  float: left;
+  border-bottom: 3px solid #000;
+}
+/* line 112, scss/original.scss */
+.shopphoto .shopphoto_1 .shopphoto_1a {
+  width: 100%;
+  padding: 0 10px;
+}
+/* line 115, scss/original.scss */
+.shopphoto .shopphoto_1 .shopphoto_1a h2 {
+  margin: 20px 0;
+}
+/* line 118, scss/original.scss */
+.shopphoto .shopphoto_1 .shopphoto_1a p {
+  color: #000;
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+/* line 124, scss/original.scss */
+.shopphoto .shopphoto_1 .shopphoto_1b {
+  width: 100%;
+}
+/* line 128, scss/original.scss */
+.shopphoto .shopphoto_2 {
+  width: 100%;
+  float: left;
+  border-bottom: 3px solid #000;
+}
+/* line 132, scss/original.scss */
+.shopphoto .shopphoto_2 .shopphoto_2a {
+  width: 100%;
+  padding: 0 10px;
+  float: right;
+}
+/* line 136, scss/original.scss */
+.shopphoto .shopphoto_2 .shopphoto_2a h2 {
+  margin: 20px 0;
+}
+/* line 139, scss/original.scss */
+.shopphoto .shopphoto_2 .shopphoto_2a p {
+  color: #000;
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+/* line 145, scss/original.scss */
+.shopphoto .shopphoto_2 .shopphoto_2b {
+  width: 100%;
+  float: left;
+}
+
+/*　画面サイズが960pxからはここを読み込む　*/
+@media only screen and (min-width: 1100px) {
+  /* line 156, scss/original.scss */
+  h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  /* line 163, scss/original.scss */
+  #laundry .blue_box a {
+    display: block;
+    padding: 15px;
+    font-size: 24px;
+    padding: 0;
+    margin-left: 0;
+  }
+
+  /* line 176, scss/original.scss */
+  .shopphoto .shopphoto_1 .shopphoto_1a {
+    width: 30%;
+    padding: 0 40px;
+    float: left;
+  }
+  /* line 180, scss/original.scss */
+  .shopphoto .shopphoto_1 .shopphoto_1a h2 {
+    margin: 20px 0;
+  }
+  /* line 183, scss/original.scss */
+  .shopphoto .shopphoto_1 .shopphoto_1a p {
+    padding-bottom: 0px;
+  }
+  /* line 187, scss/original.scss */
+  .shopphoto .shopphoto_1 .shopphoto_1b {
+    width: 70%;
+    float: right;
+  }
+  /* line 193, scss/original.scss */
+  .shopphoto .shopphoto_2 .shopphoto_2a {
+    width: 30%;
+    padding: 0 40px;
+    float: right;
+  }
+  /* line 197, scss/original.scss */
+  .shopphoto .shopphoto_2 .shopphoto_2a h2 {
+    margin: 20px 0;
+  }
+  /* line 200, scss/original.scss */
+  .shopphoto .shopphoto_2 .shopphoto_2a p {
+    padding-bottom: 0px;
+  }
+  /* line 204, scss/original.scss */
+  .shopphoto .shopphoto_2 .shopphoto_2b {
+    width: 70%;
+    float: left;
+  }
+
+  /*
+  .top_shopphoto_wrapper {
+  	.shopphoto_1 {
+  		border-bottom: 4px solid #000;
+  		.shopphoto_1a {
+  			width: 30%;
+  			float: left;
+  		}
+  		.shopphoto_1b {
+  			width: 70%;
+  			height: 500px;
+  			float: right;
+  			background: url("images/top/kids_bg.jpg") repeat;
+  			background-size:cover;
+  		}
+  	}
+  	.shopphoto_2 {
+  		border-bottom: 4px solid #000;
+  		.shopphoto_2a {
+  			width: 30%;
+  			float: right;
+  		}
+  		.shopphoto_2b {
+  			width: 70%;
+  			height: 500px;
+  			float: left;
+  			background: url("images/top/relaxation_bg.jpg") repeat;
+  			background-size:cover;
+  		}
+  	}
+  }
+  */
+}
