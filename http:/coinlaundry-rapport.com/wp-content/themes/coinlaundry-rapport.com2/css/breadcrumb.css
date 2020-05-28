@@ -1,0 +1,57 @@
+/* ================================================================================
+	#bread-crumb
+================================================================================ */
+
+
+ul.bread_crumb{
+	margin:0px;
+	padding:0px;
+	zoom:1;
+}
+
+ul.bread_crumb:after {
+  content: ""; 
+  display: block; 
+  clear: both;
+}
+
+ul.bread_crumb li{
+	list-style:none;
+	float:left;
+	/*margin-right:1em;*/
+}
+
+.bread_crumb li+li:before {
+content: '>';
+padding-left: 10px;
+margin-right: 10px;
+}
+
+
+/*
+.bread_crumb li:after {
+content: '>';
+padding-left: 10px;
+margin-right: 10px;
+}
+.bread_crumb li:last-child:after {
+	content:'';
+}
+*/
+
+/* ================================================================================
+	wp-pagenavi
+================================================================================ */
+
+
+
+.wp-pagenavi{
+	text-align:center;
+	margin-top:0;
+	margin-bottom:0;
+}
+.wp-pagenavi span.current {
+	border:none;
+	background:#3FBBD7;
+	color:#FFF;
+}
