@@ -4,14 +4,14 @@
 /*  */
 /* line 12, scss/original.scss */
 h2 {
-  margin-top: 1px;
-  margin-bottom: 1px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 /* line 17, scss/original.scss */
 #header {
   border-bottom: 10px solid #39caf7;
-  background-image:url("https://images.unsplash.com/photo-1574538298279-26973f60efa3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80");
+  background-image:url("laundry-saloon-567951_1920.jpg");
   background-size:cover;
   color:#000000;
 }
