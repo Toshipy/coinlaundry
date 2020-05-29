@@ -106,10 +106,10 @@ a:hover {
 /*ãƒ˜ãƒƒãƒ€ãƒ¼*/
 #header {
   min-height: 350px;
-  color: #FFFFFF;
+  color: #00000;
 }
 #header a {
-  color: #FFFFFF;
+  color: #00000;
 }
 @media (min-width: 1100px) {
   #header {
