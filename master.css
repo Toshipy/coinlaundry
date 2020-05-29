@@ -308,7 +308,7 @@ p.catch_text {
   text-align: center;
   display: table-cell;
   border-radius: 100px;
-  background: #ffde00;
+  background: #f2f1ff;
 }
 .access_btn a:hover {
   color: #000000;
@@ -921,7 +921,7 @@ ul.page_link_next li {
 }
 .page_link_archive {
   width: 100%;
-  background-color: #ffde00;
+  background-color: #f2f1ff;
 }
 @media (min-width: 1100px) {
   .page_link_archive {
