@@ -361,10 +361,10 @@ table.tbl_price th {
   background: #FFFFFF;
 }
 table.tbl_price .even {
-  background: #defcfe;
+  background: #CCFFCC;
 }
 table.tbl_price .odd {
-  background: #fff1f1;
+  background: #E5FFCC;
 }
 img.img_safety {
   float: left;
