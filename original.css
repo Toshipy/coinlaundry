@@ -11,7 +11,7 @@ h2 {
 /* line 17, scss/original.scss */
 #header {
   border-bottom: 10px solid #39caf7;
-  background-image:url("laundry-saloon-567951_1920.jpg");
+  background-image:url("#");
   background-size:cover;
   color:#000000;
 }
