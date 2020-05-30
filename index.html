@@ -463,34 +463,5 @@ col： 同じ列の見出しセルであることを示す。-->
 </div>
 
 
-
-
-
-<!--メインビジュアル-->
-
-
-
-<!--メニュー開閉-->
-<script>
-jQuery(function($){
-    //サブメニューをデフォルト非表示
-    $("ul.sidebar_sub_nav").css("display","none");
-
-
-    $(".sp_header_menu ul li").click(function(){
-        //$(".header_sub_nav",.not(this)).css("display","none");
-        $(".sidebar_sub_nav",this).toggle("fast");
-    });
-
-    $(".sidebar_box ul li").click(function(){
-        //$(".header_sub_nav",.not(this)).css("display","none");
-        $(".sidebar_sub_nav",this).toggle("fast");
-    });
-
-
-})
-</script>
-
-
 </body>
 </html>
