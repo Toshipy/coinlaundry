@@ -348,13 +348,7 @@ table.tbl_interior .tbl_blue {
 table.tbl_interior .td_blank {
   border-bottom: none;
 }
-.top_tvbox {
-  font-size: 16px;
-  font-weight: 600;
-  text-align: center;
-  padding: 20px;
-  background-color: #FFE119;
-}
+
 @media (min-width: 1100px) {
   .top_tvbox {
     font-size: 24px;
@@ -499,7 +493,7 @@ table.tbl_interior .td_blank {
   position: relative;
   padding: 15px 0 0 0;
   border-bottom: 9px solid #000000;
-  background-color:#A0A0A0;
+  background-color:#FFFFFF;
 }
 .footer_inner {
   background-color:#E0E0E0;
