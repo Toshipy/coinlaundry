@@ -297,7 +297,7 @@ p.catch_text {
   text-align: center;
   display: table-cell;
   border-radius: 100px;
-  background: #f2f1ff;
+  background: #FFFF00;
 }
 .access_btn a:hover {
   color: #0000CC;
