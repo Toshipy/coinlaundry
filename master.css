@@ -65,7 +65,7 @@ h1,
 h2,
 h3,
 h4 {
-  padding: 50px 0;
+  padding: 0 0;
   margin: 0;
 }
 a {
@@ -101,6 +101,7 @@ a:hover {
   overflow: hidden;
   padding-left: 10px;
   padding-right: 10px;
+  padding-bottom:50px
 }
 @media (min-width: 1100px) {
   .inner {
@@ -358,13 +359,13 @@ table.tbl_price td {
   border: 1px solid #ccc;
 }
 table.tbl_price th {
-  background: #FFFFFF;
+  background: #FFFFCC;
 }
 table.tbl_price .even {
-  background: #CCFFCC;
+  background: #CCFFE5;
 }
 table.tbl_price .odd {
-  background: #E5FFCC;
+  background: #CCE5FF;
 }
 img.img_safety {
   float: left;
