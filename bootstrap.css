@@ -300,13 +300,13 @@ img {
   vertical-align: middle;
 }
 .img-responsive,
-.thumbnail > img,
-.thumbnail a > img,
-.carousel-inner > .item > img,
-.carousel-inner > .item > a > img {
+.thumbnail
+.thumbnail
+.carousel-inner
+.carousel-inner  {
   display: block;
   max-width: 100%;
-  height: 30px;
+  height: 150px;
 }
 .img-rounded {
   border-radius: 6px;
