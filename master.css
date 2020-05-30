@@ -551,6 +551,7 @@ table.tbl_interior .td_blank {
   position: relative;
   padding: 15px 0 0 0;
   border-bottom: 9px solid #000000;
+  background-color:#A0A0A0;
 }
 .footer_inner {
   background-color:#E0E0E0;
