@@ -62,8 +62,9 @@ element.style {
 /*----*/
 body {
   font-size: 18px;
+  background-image:url("laundry-saloon-567951_1920.jpg");
+  background-size:cover;
   color: #000000;
-  background: url(../images/common/stripe_bg.png) repeat;
 }
 h1,
 h2,
@@ -549,7 +550,6 @@ table.tbl_interior .td_blank {
   font-size: 14px;
   position: relative;
   padding: 15px 0 0 0;
-  background: url(../images/common/stripe_bg.png) repeat;
   border-bottom: 9px solid #000000;
 }
 .footer_inner {
