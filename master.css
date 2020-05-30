@@ -65,7 +65,7 @@ h1,
 h2,
 h3,
 h4 {
-  padding: 15px;
+  padding: 50px 0;
   margin: 0;
 }
 a {
@@ -316,8 +316,8 @@ p.catch_text {
 }
 /*ãƒˆãƒƒãƒ—ãƒšãƒ¼ã‚¸*/
 h2 {
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 h2 span {
   display: none;
@@ -685,9 +685,9 @@ table.tbl_interior .td_blank {
 }
 .blog_contents h2 {
   font-size: 30px;
-  padding-bottom: 0px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   border-bottom: 2px solid #CCCCCC;
 }
 .blog_contents h3 {
@@ -906,8 +906,8 @@ ul.page_link_next li {
 .contents h2 {
   font-size: 0px;
   padding-bottom: 5px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   border-bottom: 2px solid #CCCCCC;
 }
 .contents h3 {
