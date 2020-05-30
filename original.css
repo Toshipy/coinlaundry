@@ -4,8 +4,8 @@
 /*  */
 /* line 12, scss/original.scss */
 h2 {
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 /* line 17, scss/original.scss */
@@ -122,7 +122,7 @@ h2 {
 }
 /* line 115, scss/original.scss */
 .shopphoto .shopphoto_1 .shopphoto_1a h2 {
-  margin: 20px 0;
+  margin: 5px 0;
 }
 /* line 118, scss/original.scss */
 .shopphoto .shopphoto_1 .shopphoto_1a p {
@@ -148,7 +148,7 @@ h2 {
 }
 /* line 136, scss/original.scss */
 .shopphoto .shopphoto_2 .shopphoto_2a h2 {
-  margin: 10px 0;
+  margin: 5px 0;
 }
 /* line 139, scss/original.scss */
 .shopphoto .shopphoto_2 .shopphoto_2a p {
@@ -182,7 +182,7 @@ h2 {
   }
   /* line 180, scss/original.scss */
   .shopphoto .shopphoto_1 .shopphoto_1a h2 {
-    margin: 0 0;
+    margin: 5px 0;
   }
   /* line 183, scss/original.scss */
   .shopphoto .shopphoto_1 .shopphoto_1a p {
