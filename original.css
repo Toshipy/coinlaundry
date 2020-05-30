@@ -206,11 +206,11 @@ h2 {
   }
   /* line 197, scss/original.scss */
   .shopphoto .shopphoto_2 .shopphoto_2a h2 {
-    margin: 0 0;
+    margin: 10px 0;
   }
   /* line 200, scss/original.scss */
   .shopphoto .shopphoto_2 .shopphoto_2a p {
-    padding-bottom: 0px;
+    padding-bottom: 10px;
   }
   /* line 204, scss/original.scss */
   .shopphoto .shopphoto_2 .shopphoto_2b {
