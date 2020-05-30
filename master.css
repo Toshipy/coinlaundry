@@ -72,12 +72,9 @@ a:hover {
 .contents_wrapper_odd,
 .contents_wrapper_even,
 .contents_wrapper_necessity {
-  padding: 50px 0;
+  padding: 10px 0;
 }
-.contents_wrapper_tv {
-  border-bottom: 3px solid #000;
-  background-color: #39caf7;
-}
+
 .contents_wrapper_odd {
   background-color: #FFFFFF;
 }
@@ -111,22 +108,14 @@ a:hover {
 #header a {
   color: #0000CC;
 }
-@media (min-width: 1100px) {
-  #header {
-    min-height: 750px;
-  }
-}
+
 #header .header_logo {
   position: absolute;
   margin-top: 0;
   display: block;
   z-index: 100;
 }
-@media (min-width: 1100px) {
-  #header .header_logo {
-    width: 100%;
-  }
-}
+
 #map {
   margin-top: -20px;
   min-height: 350px;
@@ -163,34 +152,21 @@ a:hover {
 #page a {
   color: #39caf7;
 }
-@media (min-width: 1100px) {
-  #page {
-    min-height: 440px;
-    padding-bottom: 0px;
-  }
-}
+
 #page .header_logo {
   position: absolute;
   margin-top: 0;
   display: block;
   z-index: 100;
 }
-@media (min-width: 1100px) {
-  #page .header_logo {
-    width: 100%;
-  }
-}
+
 #map_display {
   min-height: 350px;
   width: 100%;
   position: absolute;
   top: 0;
 }
-@media (min-width: 1100px) {
-  #map_display {
-    min-height: 750px;
-  }
-}
+
 /*ã‚¹ãƒžãƒ›ç”¨ã®ãƒ˜ãƒƒãƒ€ãƒ¼*/
 .sp_header {
   width: 100%;
@@ -270,7 +246,7 @@ p.catch_copy {
   margin-top: 60px;
   font-size: 35px;
   font-weight: 800;
-  color: #0000CC;
+  color: #FFFF00;
 }
 @media (min-width: 1200px) {
   p.catch_copy {
@@ -282,7 +258,7 @@ p.catch_text {
   margin-left: -60px;
   margin-top: 20px;
   font-size: 20px;
-  color: #0000CC;
+  color: #FFFF00;
   float: left;
 }
 @media (min-width: 1200px) {
@@ -528,30 +504,16 @@ table.tbl_interior .td_blank {
     -ms-filter: invert(0%);
     filter: invert(0%);
   }
-}
-.wrapper_notice_prepaid {
-  width: 100%;
-  font-size: 16px;
-  color: #FFFFFF;
-}
-@media (min-width: 1100px) {
-  .wrapper_notice_prepaid {
-    background: url(../images/top/notice_prepaid_bg.svg) top center;
-    background-size: cover;
-    padding-bottom: 50px;
-  }
-}
+
+
+
+
 .notice_box {
   padding-right: 10px;
   background-color: #39caf7;
   padding-bottom: 50px;
 }
-@media (min-width: 1100px) {
-  .notice_box {
-    padding-right: 135px;
-    background-color: none;
-  }
-}
+
 .notice_box ul {
   list-style: none;
 }
@@ -562,11 +524,7 @@ table.tbl_interior .td_blank {
 .notice_box ul li a {
   color: #FFFFFF;
 }
-.prepaid_box {
-  padding-left: 10px;
-  background-color: #FFE119;
-  padding-bottom: 50px;
-}
+
 @media (min-width: 1100px) {
   .prepaid_box {
     padding-left: 135px;
