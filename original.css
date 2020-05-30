@@ -11,8 +11,8 @@ h2 {
 /* line 17, scss/original.scss */
 #header {
   border-bottom: 10px solid #39caf7;
-  background-image:url("#");
-  background-size:cover;
+  background-color:#A0A0A0;
+
   color:#000000;
 }
 
