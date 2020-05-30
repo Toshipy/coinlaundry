@@ -106,10 +106,10 @@ a:hover {
 /*ãƒ˜ãƒƒãƒ€ãƒ¼*/
 #header {
   min-height: 350px;
-  color: #FFFF00;
+  color: #0000CC;
 }
 #header a {
-  color: #FFFF00;
+  color: #0000CC;
 }
 @media (min-width: 1100px) {
   #header {
@@ -268,9 +268,9 @@ img.mainv_copy {
 p.catch_copy {
   margin-left: -60px;
   margin-top: 60px;
-  font-size: 26px;
+  font-size: 35px;
   font-weight: 800;
-  color: #FFFF00;
+  color: #0000CC;
 }
 @media (min-width: 1200px) {
   p.catch_copy {
@@ -281,8 +281,8 @@ p.catch_text {
   width: 480px;
   margin-left: -60px;
   margin-top: 20px;
-  font-size: 14px;
-  color: #FFFF00;
+  font-size: 20px;
+  color: #0000CC;
   float: left;
 }
 @media (min-width: 1200px) {
@@ -311,7 +311,7 @@ p.catch_text {
   background: #f2f1ff;
 }
 .access_btn a:hover {
-  color: #FFFF00;
+  color: #0000CC;
   text-decoration: none;
   background: #FFFFFF;
 }
