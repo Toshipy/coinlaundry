@@ -553,7 +553,7 @@ table.tbl_interior .td_blank {
   border-bottom: 9px solid #000000;
 }
 .footer_inner {
-  background: url(../images/common/footer/footer_border.png) bottom right no-repeat;
+  background-color:#E0E0E0;
   padding-bottom: 20px;
   margin-bottom: -9px;
 }
