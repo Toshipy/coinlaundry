@@ -62,8 +62,7 @@ element.style {
 /*----*/
 body {
   font-size: 18px;
-  background-image:url("Laundry.jpg");
-  background-size:cover;
+  background-color:#C0C0C0;
   color: #000000;
 }
 h1,
@@ -166,7 +165,7 @@ a:hover {
   min-height: 350px;
   color: #39caf7;
   text-shadow: white 1px 1px 0px, white -1px 1px 0px, white 1px -1px 0px, white -1px -1px 0px;
-  background-color: #BAD5E4;
+  background-color: #C0C0C0;
 }
 #page a {
   color: #39caf7;
@@ -227,7 +226,7 @@ a:hover {
   font-weight: 800;
   padding: 10px 0;
   text-align: center;
-  background-color: #E1EEFF;
+  background-color: #C0C0C0;
   border-bottom: 1px dotted #BBBBBB;
 }
 .sp_header_menu ul.ul_sp_header_menu li a {
