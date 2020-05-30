@@ -73,11 +73,11 @@ a:hover {
   padding-left: 0;
   padding-right: 0;
 }
-.contents_wrapper_tv,
+
 .contents_wrapper_odd,
 .contents_wrapper_even,
 .contents_wrapper_necessity {
-  padding: 10px 0;
+  padding: 1px 0;
 }
 
 .contents_wrapper_odd {
