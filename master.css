@@ -308,8 +308,8 @@ p.catch_text {
 }
 /*ãƒˆãƒƒãƒ—ãƒšãƒ¼ã‚¸*/
 h2 {
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 h2 span {
   display: none;
@@ -683,9 +683,9 @@ table.tbl_interior .td_blank {
 }
 .blog_contents h2 {
   font-size: 30px;
-  padding-bottom: 5px;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   border-bottom: 2px solid #CCCCCC;
 }
 .blog_contents h3 {
@@ -902,10 +902,10 @@ ul.page_link_next li {
   padding: 50px 0;
 }
 .contents h2 {
-  font-size: 30px;
+  font-size: 0px;
   padding-bottom: 5px;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   border-bottom: 2px solid #CCCCCC;
 }
 .contents h3 {
