@@ -10,7 +10,11 @@ LESSãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç·¨é›†ã™ã‚‹ã“ã�
   float:left;
 }
 
-
+element.style {
+    margin-left: 2%;
+    margin-right: 0;
+    height: 500px;
+}
 .row-10 {
   margin-left: -5px;
   margin-right: -5px;
