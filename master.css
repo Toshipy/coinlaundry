@@ -212,6 +212,8 @@ body {
   font-size: 18px;
   background-color:#FFFFFF;
   color: #000000;
+  background-image:url("Laundry.jpg");
+  background-size:contain;
 }
 h1,
 h2,
@@ -551,12 +553,7 @@ table.tbl_interior .td_blank {
     filter: invert(0%);
   }
 }
-.shop_photo_1r {
-  width: 100%;
-  margin-left: 0;
-  background: url(../images/top/kids_bg.jpg) top left no-repeat;
-  background-size: auto 100%;
-}
+
 @media (min-width: 1100px) {
   .shop_photo_1r {
     width: 70%;
@@ -565,12 +562,7 @@ table.tbl_interior .td_blank {
     background-size: 100% auto;
   }
 }
-.shop_photo_2l {
-  width: 100%;
-  margin-left: 0;
-  background: url(../images/top/relaxation_bg.jpg) top left no-repeat;
-  background-size: auto 100%;
-}
+
 @media (min-width: 1100px) {
   .shop_photo_2l {
     width: 70%;
@@ -894,12 +886,7 @@ table.tbl_interior .td_blank {
   overflow-x: hidden;
   overflow-y: auto;
 }
-.widget ul li {
-  font-size: 14px;
-  padding-left: 24px;
-  line-height: 30px;
-  background: url(../images/common/list_bullet.png) center left no-repeat;
-}
+
 .widget_recent_entries {
   background-color: #FFFFFF;
   padding: 10px;
@@ -958,12 +945,7 @@ ul.page_link_prev {
     text-align: right;
   }
 }
-ul.page_link_prev li {
-  font-size: 14px;
-  background: url(../images/common/prev.png) center left no-repeat;
-  padding-left: 30px;
-  display: inline-block;
-}
+
 ul.page_link_next {
   width: 100%;
   text-align: right;
@@ -976,12 +958,7 @@ ul.page_link_next {
     text-align: left;
   }
 }
-ul.page_link_next li {
-  font-size: 14px;
-  background: url(../images/common/next.png) center right no-repeat;
-  padding-right: 30px;
-  display: inline-block;
-}
+
 .page_link_archive {
   width: 100%;
   background-color: #f2f1ff;
