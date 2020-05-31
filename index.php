@@ -451,7 +451,7 @@ col： 同じ列の見出しセルであることを示す。-->
         <div class="form-item">名前</div>
         <input type="text" name="name">
 				<input type="text" name="email" placeholder="Your Email" />
- 			 
+
 			 <div class="form-item">お問い合わせの種類</div>
 			 <?php
 				 $types = array('ご質問、ご要望などについて', '機械の故障、不具合などについて','その他');
@@ -468,7 +468,7 @@ col： 同じ列の見出しセルであることを示す。-->
 			 <div class="form-item">内容</div>
 			 <textarea name="body"></textarea>
 
-			 
+
 			 			 <input type="text" name="honeypot" style="display:none">
 			 			 <input type="hidden" name="accessKey" value="b2b8158a-a312-41fc-a352-9d84b8aca0c2">
 			 			 <input type="hidden" name="subject" value="Contact us from - example.com" />
@@ -476,7 +476,7 @@ col： 同じ列の見出しセルであることを示す。-->
 			 			 <input type="hidden" name="redirectTo" value="https://toshipy.github.io/coinlaundry/">
 			 			 <input type="submit" value="Submit" />
 			 	 </form>
-			 	 
+
 
 
       </form>
