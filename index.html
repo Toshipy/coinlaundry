@@ -1,0 +1,514 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" prefix="og: http://ogp.me/ns#">
+<head profile="http://gmpg.org/xfn/11">
+<link rel="master" type="text/css" href="master.css">
+<!-- title いる？ -->
+<title>岐阜県可児市御嵩町にあるコインランドリーレインボーです。ラスパ御嵩から徒歩５分程度</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no">
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta charset="utf-8">
+
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" type="text/css" href="bootstrap.css">
+<link rel="stylesheet" type="text/css" href="default.css">
+<link rel="stylesheet" type="text/css" href="breadcrumb.css">
+<link rel="stylesheet" type="text/css" href="form.css">
+<link rel="stylesheet" type="text/css" href="master.css">
+<link rel="stylesheet" type="text/css" href="vegas.min.css">
+<link rel="stylesheet" type="text/css" href="original.css">
+
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="岐阜県可児市御嵩町1146-2にあるコインランドリーレインボーです。ラスパ御嵩から徒歩５分程度。お湯で洗濯できます。"/>
+<meta name="robots" content="noodp"/>
+<!-- meta name Webサイトの概要をまとめたテキストの内容を指示する、検索エンジンの検索結果画面に示される。-->
+<!-- meta name=”robots”>とは、HTMLの<head>タグ内に記載するメタタグの一種です。メタタグとは、メタ要素とも呼ばれ、Webページの情報を検索エンジンやブラウザにインデックスすることを拒否したり、キャッシュを拒否したりと、クローラーの動作を制御する役割を果たします。<head>タグ内に記載されるので、サイトを訪問するユーザーからは直接見えることはありません。-->
+<link rel="canonical" href="https://toshipy.github.io/coinlaundry/" />
+<!-- SEO内部対策のひとつ「インデックス最適化」の基本となるcanonical属性タグを利用した「URL正規化」をする必要があります。
+このURLの正規化処理をしていない場合、せっかく良いコンテンツを作成しても複数の異なるURLで同一のページを閲覧できる状態となってしまうことがあり、場合によっては重複コンテンツとみなされてマイナスの評価を受ける可能性があります。-->
+<link rel="next" href="https://toshipy.github.io/coinlaundry//2/" />
+
+<meta property="og:locale" content="ja_JP" />
+<!-- 本エントリーでお伝えしたいのはこの部分で、日本語しかサポートしていない場合は次のように「ja_JP」を設定したmeta要素を追加すると良いでしょう。-->
+<meta property="og:type" content="website" />
+<!--TOPページの場合は「website」、WEBサイト上の記事ページなど、TOPページ以外には「article」を指定します。-->
+<meta property="og:title" content="御嵩町のコインランドリーレインボー" />
+<meta property="og:description" content="岐阜県可児市御嵩町にあるコインランドリーレインボーです。ラスパ御嵩から徒歩５分程度。お湯で洗濯できます。" />
+<meta property="og:url" content="https://toshipy.github.io/coinlaundry/" />
+<meta property="og:site_name" content="ラポール" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="岐阜県可児市御嵩町にあるコインランドリーレインボーです。ラスパ御嵩から徒歩５分程度。お湯で洗濯できます。"/>
+<meta name="twitter:title" content="御嵩町のコインランドリーレインボー"/>
+<!--この記述はよくわからん<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/coinlaundry-rapport.com\/","name":"\u30e9\u30dd\u30fc\u30eb","potentialAction":{"@type":"SearchAction","target":"http:\/\/coinlaundry-rapport.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>-->
+<!-- / Yoast SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/coinlaundry-rapport.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.23"}};
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://coinlaundry-rapport.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-70787907-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://coinlaundry-rapport.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://coinlaundry-rapport.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://coinlaundry-rapport.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://coinlaundry-rapport.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.3.23" />
+
+<!--[if lt IE 9]>
+<script src="http://coinlaundry-rapport.com/wp-content/themes/coinlaundry-rapport.com2/js/html5shiv.js"></script>
+<![endif]-->
+<!--[if (gte IE 6)&(lte IE 8)]>
+	<script type="text/javascript" src="http://coinlaundry-rapport.com/wp-content/themes/coinlaundry-rapport.com2/js/selectivizr.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="http://coinlaundry-rapport.com/wp-content/themes/coinlaundry-rapport.com2/js/respond.min.js"></script>
+<![endif]-->
+
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://coinlaundry-rapport.com/wp-content/themes/coinlaundry-rapport.com2/css/ie.css" />
+<![endif]-->
+
+<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>-->
+
+<script src="http://coinlaundry-rapport.com/wp-content/themes/coinlaundry-rapport.com2/js/spot_smoothscroll.js"></script>
+<script src="http://coinlaundry-rapport.com/wp-content/themes/coinlaundry-rapport.com2/js/heightLine.js"></script>
+
+<!--Vegas-->
+<script src="jquery-2.1.3.min.js"></script>
+<script src="vegas.js"></script>
+
+<!--font-awesome-->
+<link rel="stylesheet" type="text/css" href="http://coinlaundry-rapport.com/wp-content/themes/coinlaundry-rapport.com2/font-awesome/css/font-awesome.min.css">
+
+<script src="http://coinlaundry-rapport.com/wp-content/themes/coinlaundry-rapport.com2/js/case_toggle_img.js"></script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-436585-23', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+
+<div id="header">
+
+	<!--SP用ヘッダー-->
+
+	<!--//SP用ヘッダー-->
+
+	<!--PC用ヘッダー-->
+	<div class="row hidden-xs hidden-sm" style="margin-left: 2%; margin-right: 0;height: 600px;">
+		<div class="col-xs-4">
+			<a href="https://toshipy.github.io/coinlaundry/">
+				<h1>
+					<img src="rainbow2.png" alt="御嵩町のコインランドリー" class="img-responsive header_logo m_over"/>
+				</h1>
+			</a>
+		</div>
+		<div class="col-xs-8">
+			<ul class="ul_pc_header_menu">
+				<li>
+	<a href="https://toshipy.github.io/coinlaundry/">
+		Home<br>
+		<span style="font-size:70%;">ホーム</span>
+	</a>
+</li>
+<li>
+	<a href="https://toshipy.github.io/coinlaundry-access/">
+		Access<br>
+		<span style="font-size:70%;">アクセス</span>
+	</a>
+</li>
+
+<li>
+	<a href="https://toshipy.github.io/coinlaundry/#washable2">
+		Washable<br>
+		<span style="font-size:70%;">洗えるもの</span>
+	</a>
+</li>
+<li>
+	<a href="https://toshipy.github.io/coinlaundry/#price">
+		Price<br>
+		<span style="font-size:70%;">料金</span>
+	</a>
+</li>
+<li>
+	<a href="https://toshipy.github.io/coinlaundry/#interior">
+		Layout<br>
+		<span style="font-size:70%;">レイアウト</span>
+	</a>
+</li>			</ul>
+						<img src="Laundry.jpg" alt="" class="img-responsive mainv_copy"/ style="height:0;">
+			<p class="catch_copy">お湯で洗濯できるコインランドリー</p>
+			<p class="catch_text">
+				清潔感ある店内<br->
+				電解水で除菌効果抜群！<br>
+        選べる洗濯機サイズ！<br>
+			</p>
+			<p class="access_btn" class="img_center"><a href="#" class="m_over">アクセス</a></p>
+											</div>
+	</div>
+	<!--//PC用ヘッダー-->
+
+
+
+
+
+<!--Washable-->
+<div class="wrapper contents_wrapper_odd" id="washable2">
+	<div class="inner">
+		<h2 style="
+    margin-top: 40px;
+    margin-bottom: 40px;
+">
+			<img src="Washable2.png" alt="洗えるもの" class="img-responsive">
+			<span>洗えるもの</span>
+		</h2>
+
+<div class="row">
+	<div class="col-xs-12 col-md-9 col-md-offset-3" style ="margin-left:0px;">
+		<p><strong>
+					洗濯物を入れる前にボタンを押すと２分間ドラムを洗浄しますので、常に清潔で安心です。<br>
+				</strong>
+		</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 col-md-4">
+		<div class="wash_cell">
+<h3><img src="Washable.png" alt="洗えるもの" class="img-responsive"></h3>
+<ul>
+衣類
+<li>一般衣類</li>
+<li>ダウンジャケット（ポリウレタンは×）</li>
+</ul>
+<ul>
+寝具
+<li>毛布</li>
+<li>羽毛布団</li>
+<li>夏掛け布団</li>
+<li>ベッドカバー</li>
+<li>シーツ</li>
+<li>布団カバー</li>
+<li>タオルケット</li>
+</ul>
+<ul>
+インテリア
+<li>カーテン</li>
+<li>カーペット</li>
+<li>こたつ布団</li>
+<li>ぬいぐるみ）</li>
+</ul>
+		</div>
+	</div>
+
+	<div class="col-xs-12 col-md-4">
+		<div class="wash_cell">
+<h3><img src="Cannotwash.png" alt="洗えないもの" class="img-responsive"></h3>
+<ul>
+衣類
+<li>ウール・シルク製の衣類、靴</li>
+</ul>
+<ul>
+寝具
+<li>真綿布団</li>
+<li>羊毛布団</li>
+</ul>
+<ul>
+インテリア
+<li>座布団・クッション</li>
+</ul>
+<hr>
+<p>公衆衛生上のお願い<br />
+他のお客様のご迷惑となりますので、オムツやペット用品・車や屋外で使われたマット・油汚れのひどいもの等のご利用はお断り致します。
+</p>
+		</div>
+	</div>
+
+	<div class="col-xs-12 col-md-4">
+		<div class="washable_caution">
+
+		</div>
+	</div>
+
+</div>
+
+		<div class="row">
+			<div class="col-xs-12 col-md-9">
+				<p class="p_wash ">
+					※当店はセルフ方式のコインランドリーです。<br />
+					※紛失・盗難・色落ちや縮み等のトラブルにつきましては、一切責任を負いかねます。<br />
+          お洗濯表示やご注意をよくご確認の上、ご利用下さい。</br>
+				</p>
+			</div>
+		</div>
+
+	</div>
+</div>
+<!--//Washable-->
+
+
+
+<!--Price List-->
+<div class="wrapper contents_wrapper_even" id="price">
+	<div class="inner">
+		<h2 style="
+    margin-top: 40px;
+    margin-bottom: 40px;
+">
+			<img src="pricelist.png" alt="料金表" class="img-responsive">
+			<span>料金表</span>
+		</h2>
+
+		<div class="row">
+			<div class="col-xs-12 col-md-9 col-md-offset-3">
+				<p><strong>乾燥機は100円からご利用頂けます。</strong></p>
+			</div>
+		</div>
+
+		<table class="tbl_price" summary="コインランドリー料金表">
+		  <tbody>
+		    <tr>
+          <!--<th scope=""></th>
+この属性を指定することで、それがどのデータに対する見出しなのかを明確に示すことができます。 ... そのセルが、縦列に対する見出しであることを示します。 rowgroup … そのセルが、行グループ（ thead 、 tfoot 、 tbody ）に対する見出しであることを示します。-->
+		      <th scope="col">&nbsp;</th>
+  <!--row： 同じ行の見出しセルであることを示す。
+col： 同じ列の見出しセルであることを示す。-->
+		      <th scope="col" class="even">容量</th>
+		      <th scope="col" class="odd">時間</th>
+		      <th scope="col" class="even">料金</th>
+          <th scope="col" class="odd">台数</th>
+		    </tr>
+		    <tr>
+		      <th rowspan="3" scope="row">洗濯のみ</th>
+		      <td class="even">12kg</td>
+		      <td class="odd">30分</td>
+		      <td class="even">500円</td>
+          <td class="odd">1台</td>
+
+		    </tr>
+		    <tr>
+		      <td class="even">17kg</td>
+		      <td class="odd">30分</td>
+		      <td class="even">700円</td>
+          <td class="odd">1台</td>
+		    </tr>
+        <tr>
+          <td class="even">22kg</td>
+          <td class="odd">30分</td>
+          <td class="even">1000円</td>
+          <td class="odd">1台</td>
+        </tr>
+
+
+		    <tr>
+		      <th rowspan="2" scope="row">乾燥のみ</th>
+		      <td class="even">13kg</td>
+		      <td class="odd">9分</td>
+		      <td class="even">100円</td>
+          <td class="odd">5台</td>
+		    </tr>
+		    <tr>
+		      <td class="even">25kg</td>
+		      <td class="odd">7分</td>
+		      <td class="even">100円</td>
+          <td class="odd">2台</td>
+		    </tr>
+
+
+
+		  </tbody>
+		</table>
+
+	</div>
+</div>
+<!--//Price List-->
+
+
+
+<!--Interior-->
+<div class="wrapper contents_wrapper_odd" id="interior">
+	<div class="inner">
+		<h2 style="
+    margin-top: 40px;
+    margin-bottom: 40px;
+">
+			<img src="layout.png" alt="レイアウト" class="img-responsive">
+			<span>店内情報</span>
+		</h2>
+
+		<div class="row">
+			<div class="col-xs-12 col-md-6">
+				<img src="layout2.png" alt="Laundry area" class="m-b-20">
+
+
+					<div class="col-xs-12 col-md-9">
+						<p class="t_first"><strong>防犯カメラ設置</strong></p>
+						<p><strong>営業時間内call at:090-5877-6773</strong></p>
+            <!--。<strong>～</strong>で囲んだテキストを強調し、Internet ExplorerやNetscape Navigatorなどのブラウザでは太字で表示されます-->
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 col-md-6" style="float:right; width:50%;">
+				<table class="tbl_interior m-b-30" summary="洗濯乾燥機（小型）スペック">
+				  <tbody>
+				    <tr>
+				      <th scope="col" class="tbl_blue">1.</th>
+				      <th colspan="3" scope="col">洗濯機×3台</th>
+				    </tr>
+				    <tr>
+				      <td class="td_blank">&nbsp;</td>
+				      <td>12kg</td>
+				      <td>洗濯のみ</td>
+
+				    </tr>
+				    <tr>
+				      <td class="td_blank">&nbsp;</td>
+				      <td>17kg</td>
+				      <td>洗濯のみ</td>
+				      <td>&nbsp;</td>
+				    </tr>
+				  </tbody>
+				</table>
+				<table class="tbl_interior m-b-30" summary="洗濯乾燥機（中型）スペック">
+				  <tbody>
+				    <tr>
+				      <th scope="col" class="tbl_blue">2.</th>
+				      <th colspan="3" scope="col">乾燥機×7台</th>
+				    </tr>
+				    <tr>
+				      <td class="td_blank">&nbsp;</td>
+				      <td>13kg</td>
+				      <td>乾燥のみ</td>
+
+				    </tr>
+				    <tr>
+				      <td class="td_blank">&nbsp;</td>
+				      <td>25kg</td>
+				      <td>乾燥のみ</td>
+				      <td>&nbsp;</td>
+				    </tr>
+				  </tbody>
+				</table>
+
+			</div>
+		</div>
+
+	</div>
+</div>
+
+
+
+<!--//Interior-->
+
+
+  <div class="main">
+    <div class="contact-form">
+      <div class="form-title">お問い合わせ</div>
+      <form method="post" action="sent.php">
+        <div class="form-item">名前</div>
+        <input type="text" name="name">
+
+
+        <div class="form-item">お問い合わせの種類</div>
+        <?php
+          $types = array('Progateに関するお問い合わせ', 'Progateに対する意見', '採用に関するお問い合わせ', '取材・メディア関連のお問い合わせ', '料金に関するお問い合わせ', 'その他');
+         ?>
+        <!-- この下にselectタグを書いていきましょう -->
+        <select name = "category">
+          <option value ="未選択">選択してください</option>
+          <?php
+                foreach ($types as $type) {
+      echo "<option value='{$type}'>{$type}</option>";}
+          ?>
+        </select>
+
+        <div class="form-item">内容</div>
+        <textarea name="body"></textarea>
+
+        <input type="submit" value="送信">
+      </form>
+    </div>
+  </div>
+
+  <div class="footer">
+
+    <div class="like-box">
+      <div class="btn-wrapper">
+          <a href="https://twitter.com/Parkalleyoop" class="btn twitter"><span class="fa fa-twitter"></span>TwitterからDMでお問い合わせ</a>
+        </div>
+        </div>
+  </div>
+
+
+
+
+<div class="footer_wrapper">
+<p id="page-top" class="img_center"><a href="#top" class="m_over"><i class="fa fa-chevron-up"></i></a></p>
+    <p class="text-center" style="margin-top: 12px;"><a href="#top" class="m_over"><strong>Page Top</strong></a></p>
+	<div class="container footer_inner" style="margin-bottom:10px;">
+        <div class="row">
+            <div class="col-xs-12 col-md-9 heightLine-sns">
+        		<a href="#">
+        			<img src="rainbow2.png" alt="御嵩町のコインランドリーレインボー" class="footer_logo m_over img-responsive"/>
+        		</a>
+        		<p>コインランドリーレインボー 可児郡御嵩町1146-2　営業時間：朝６時〜夜１１時まで　定休日：年中無休</p>
+            </div>
+            <div class="col-xs-12 col-md-3" style="display: table;">
+            <div id="sns_box" class="heightLine-sns">
+                <p id="facebook_btn"><a href="#" class="m_over" target="_blank">f</a></p>
+
+                <div class="clear"></div>
+            </div>
+            </div>
+        </div>
+	</div>
+</div>
+<div class="f_copyright">
+<p class="text-center">&copy; <a href="#">RAINBOW</a> ALL RIGHTS RESERVED.</p>
+</div>
+
+
+</body>
+</html>
