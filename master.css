@@ -212,8 +212,7 @@ body {
   font-size: 18px;
   background-color:#FFFFFF;
   color: #000000;
-  background-image:url("Laundry.jpg");
-  background-size:contain;
+
 }
 h1,
 h2,
@@ -272,8 +271,7 @@ a:hover {
 #header {
   min-height: 350px;
   color: #0000CC;
-  background-image: url("Laundry.jpg");
-  background-size:contain;
+
 }
 #header a {
   color: #0000CC;
