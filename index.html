@@ -442,6 +442,7 @@ col： 同じ列の見出しセルであることを示す。-->
 
 <!--//Interior-->
 
+<form action="https://api.staticforms.xyz/submit" method="post">
 
   <div class="main">
     <div class="contact-form">
@@ -449,8 +450,18 @@ col： 同じ列の見出しセルであることを示す。-->
       <form method="post" action="sent.php">
         <div class="form-item">名前</div>
         <input type="text" name="name">
+				<input type="text" name="email" placeholder="Your Email" />
+ 			 <textarea name="message"></textarea>
 
-
+			 
+			 			 <input type="text" name="honeypot" style="display:none">
+			 			 <input type="hidden" name="accessKey" value="b2b8158a-a312-41fc-a352-9d84b8aca0c2">
+			 			 <input type="hidden" name="subject" value="Contact us from - example.com" />
+			 			 <input type="hidden" name="replyTo" value="@">
+			 			 <input type="hidden" name="redirectTo" value="https://example.com/contact/success">
+			 			 <input type="submit" value="Submit" />
+			 	 </form>
+			 	 
         <div class="form-item">お問い合わせの種類</div>
         <?php
           $types = array('ご質問、ご要望などについて', '機械の故障、不具合などについて','その他');
