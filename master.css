@@ -270,7 +270,7 @@ a:hover {
 #header {
   min-height: 350px;
   color: #0000CC;
-  background-image: url(Laundry.jpg);
+  background-image: url("Laundry.jpg");
   background-size:cover;
 }
 #header a {
